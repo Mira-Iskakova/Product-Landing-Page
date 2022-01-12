@@ -1,5 +1,5 @@
-This is a product landing page project.
+This is a freeCodeCamp challenge project done within the "Responsive Web Design" course.
 
-The live version of it can be accessed here:
+The live version of the project can be accessed here:
 
 https://mira-iskakova.github.io/product-landing-page/ 
