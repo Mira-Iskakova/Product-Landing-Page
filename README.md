@@ -2,4 +2,4 @@ This is a freeCodeCamp challenge project done within the "Responsive Web Design"
 
 The live version of the project can be accessed here:
 
-https://mira-iskakova.github.io/product-landing-page/ 
+https://mira-iskakova.github.io/Product-Landing-Page/
